@@ -10,6 +10,7 @@ namespace HalloGithub
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Hello World, I am using Github now!");
         }
     }
 }
